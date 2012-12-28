@@ -1,0 +1,24 @@
+#+TITLE:     Hello, Portland Code School
+#+AUTHOR:    William Clifford
+#+EMAIL:     wobh@yahoo.com
+#+DATE:      2012-12-27 Thu
+#+DESCRIPTION: Ruby 'Hello world' for Portland Code School application
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+* Hello, Portland Code School!
+
+A primitive 'Hello world!' in Ruby on Rails for http://www.portlandcodeschool.com/
+
+Followed directions in
+http://guides.rubyonrails.org/getting_started.html.
+
+Run =rails server= and browse to =localhost:3000= to view.
